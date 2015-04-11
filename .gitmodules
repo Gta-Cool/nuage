@@ -16,3 +16,6 @@
 [submodule "apps/dashboard"]
 	path = apps/dashboard
 	url = git@github.com:fjies/dashboard.git
+[submodule "apps/mozilla_sync"]
+	path = apps/mozilla_sync
+	url = git@github.com:owncloud/mozilla_sync.git

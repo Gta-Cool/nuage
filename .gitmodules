@@ -13,3 +13,6 @@
 [submodule "apps/video-bay"]
 	path = apps/video-bay
 	url = git@github.com:flopex/Video-Bay.git
+[submodule "apps/dashboard"]
+	path = apps/dashboard
+	url = git@github.com:fjies/dashboard.git

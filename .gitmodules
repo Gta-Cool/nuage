@@ -19,3 +19,6 @@
 [submodule "apps/mozilla_sync"]
 	path = apps/mozilla_sync
 	url = git@github.com:owncloud/mozilla_sync.git
+[submodule "themes/nuage"]
+	path = themes/nuage
+	url = git@github.com:Gta-Cool/NuageTheme.git
